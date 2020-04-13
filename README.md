@@ -1,5 +1,6 @@
 # Webpack
 ## 根目录下
+新创src文件夹，写入口文件index.jsx
 ```
 npm install
 ```
